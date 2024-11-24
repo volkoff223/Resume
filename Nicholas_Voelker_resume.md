@@ -16,18 +16,18 @@ header-includes:
 
 Chesapeake, VA | volkoff223@gmail.com | 619-606-5945 | www.nicholasvoelker.com
 
-Results-driven software developer with 21 years of military experience, including classified projects with NSA, FBI, and CIA. Strong background in full-stack development, database administration, and systems integration. Experience working in classified environments and managing sensitive data.
+Results-driven software developer and systems analyst with 21 years of military experience, including classified projects with NSA, FBI, and CIA. Strong background in full-stack development, database administration, and systems integration. Experience working in classified environments and managing sensitive data.
 
 ## TECHNICAL SKILLS
 
 - **Languages & Frameworks:** Python, JavaScript, Go, React, SvelteKit, Astro
 - **Database Systems:** MySQL, MongoDB, Firebase, Salesforce Administration
-- **Development Tools:** Git, Linux, GIMP, Photoshop
+- **Development Tools:** Git, Linux, SSH, VIM, Wireshark, Photoshop
 - **Additional:** Active TS/SCI clearance, Master Training Specialist
 
 ## PROFESSIONAL EXPERIENCE
 
-### Web Developer
+### Software Developer
 
 **Early Education Business Consultants** (2024)
 
