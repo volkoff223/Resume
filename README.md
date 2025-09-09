@@ -6,25 +6,27 @@ Results-driven software developer, systems analyst, and system administrator wit
 
 ## TECHNICAL SKILLS
 
-- **System Administration & Automation:** Red Hat Enterprise Linux (RHEL), OpenShift, Kuberneties, Ansible, Docker, Bash, SSH, VIM
+- **System Administration & Automation:** Red Hat Certified System Administrator (HHSCA), OpenShift Container Platform, Kuberneties, Ansible, Docker
 - **Languages & Frameworks:** JavaScript, HTML, CSS, Bootstrap, Python, Go, React, SvelteKit, Astro
 - **Database Systems:** MySQL, MongoDB, Firebase, PocketBase
 - **Development Tools:** Git, Photoshop, GIMP, Figma, Adobe XD
-- **Security & Compliance:** TS/SCI Clearance, CompTIA Security+, OSHA 10 Hour Maritime Industry Course
+- **Security & Compliance:** TS/SCI Clearance, CompTIA Security+
 
 ## PROFESSIONAL EXPERIENCE
 
-### Computer System Analyst II
+### OpenShift Administrator
 
-**Predicate Logic Inc** (2024-Current)
+**U.S. Navy / Defense Contractor — Various Naval Vessels** (2024-Current)
 
-- Responsible for the configuration and management of the Agile Core Services (ACS) system installed on numerous U.S. Navy vessels.
-- Deployed, configured, and managed OpenShift (Kubernetes) clusters and Red Hat Enterprise Linux-based virtualized environments.
-- Maintained, troubleshot, and optimized Linux servers to ensure high availability and security.
-- Automated system administration tasks using Ansible (e.g., provisioning, patching, configuration management).
-- Monitored system performance and logs using tools like Prometheus, Grafana, and other monitoring solutions.
-- Applied security best practices, including patch management, vulnerability remediation, and compliance enforcement.
-- Supported containerized applications within OpenShift, ensuring smooth integration with the infrastructure.
+- Configured, deployed, and managed the Agile Core Services (ACS) platform, an OpenShift-based application infrastructure deployed across U.S. Navy vessels.
+- Administered and optimized OpenShift clusters running on 24 Red Hat Enterprise Linux (RHEL) virtual machines, supporting application delivery, authentication, geospatial mapping, and relational databases.
+- Maintained, troubleshot, and secured Linux servers, ensuring high availability, system hardening, and compliance with security standards.
+- Automated provisioning, patching, and configuration management tasks using Ansible, reducing manual effort and improving reliability.
+- Supported containerized applications in OpenShift, ensuring smooth integration with the platform and underlying infrastructure.
+- Implemented authentication, authorization, and single sign-on (SSO) solutions with ForgeRock (Ping Identity) and Active Directory integration.
+- Monitored and tuned system performance using Prometheus, Grafana, and other monitoring tools to proactively detect and resolve issues.
+- Applied patch management, vulnerability remediation, and compliance enforcement in accordance with Navy cybersecurity requirements.
+- Facilitated delivery of applications via Application Arsenal, a secure shipboard repository and marketplace for mission software. 
 
 ### Software Developer
 
