@@ -2,7 +2,7 @@
 
 Chesapeake, VA | volkoff223@gmail.com | 619-606-5945 | www.nickvoelker.xyz
 
-Results-driven software developer, systems analyst, and system administrator with 21 years of military experience. Expertise in full-stack development, database administration, and enterprise system integration. Adept at managing virtualized environments with Red Hat Enterprise Linux (RHEL) and OpenShift, automating deployments with Ansible, and enhancing system security. Proven track record of optimizing performance, reducing manual workloads, and ensuring compliance in classified, mission-critical environments.
+Results-driven Linux and OpenShift platform engineer with 21 years of military experience. Skilled in RHEL, OpenShift, Kubernetes, and Ansible, with expertise in automating deployments, containerized application delivery, and system hardening. Adept at managing virtualized and cloud-native environments, integrating secure authentication systems, and ensuring compliance in classified, mission-critical operations. Proven track record of optimizing performance, reducing manual workloads, and enhancing system security across large-scale deployments.
 
 ## TECHNICAL SKILLS
 
@@ -74,7 +74,8 @@ Results-driven software developer, systems analyst, and system administrator wit
 
 ## CERTIFICATIONS
 
-- CompTIA Security+
+- Red Hat Certified System Administrator (2025)
+- CompTIA Security+ (2025)
 - Scientific Computing with Python (2024)
 - JavaScript Algorithms and Data Structures (2019)
 - Responsive Web Design (2018)
