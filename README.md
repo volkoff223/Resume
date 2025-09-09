@@ -6,11 +6,12 @@ Results-driven software developer, systems analyst, and system administrator wit
 
 ## TECHNICAL SKILLS
 
-- **System Administration & Automation:** Red Hat Certified System Administrator (HHSCA), OpenShift Container Platform, Kuberneties, Ansible, Docker
-- **Languages & Frameworks:** JavaScript, HTML, CSS, Bootstrap, Python, Go, React, SvelteKit, Astro
-- **Database Systems:** MySQL, MongoDB, Firebase, PocketBase
-- **Development Tools:** Git, Photoshop, GIMP, Figma, Adobe XD
-- **Security & Compliance:** TS/SCI Clearance, CompTIA Security+
+- **System Administration & Automation:** Red Hat Enterprise Linux (RHEL), Red Hat Certified System Administrator (RHCSA), OpenShift Container Platform, Kubernetes, Ansible, Docker, Podman, Bash scripting, system provisioning, patch management, configuration management  
+- **Security & Compliance:** TS/SCI Clearance, CompTIA Security+, SELinux, firewalld, system hardening, vulnerability remediation, compliance enforcement (CIS benchmarks, STIGs)  
+- **Monitoring & Infrastructure:** Prometheus, Grafana, system performance tuning, capacity planning, log analysis, troubleshooting, high availability systems  
+- **Programming & Development:** Python, Go, JavaScript, HTML, CSS, React, SvelteKit, Astro, Bootstrap, full-stack application development  
+- **Database Systems:** MySQL, MongoDB, Firebase, PocketBase, database design, administration, and optimization  
+- **Development Tools & Collaboration:** Git, CI/CD pipelines, Agile methodologies, Figma, Photoshop, GIMP, Adobe XD  
 
 ## PROFESSIONAL EXPERIENCE
 
