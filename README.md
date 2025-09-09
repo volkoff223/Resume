@@ -6,8 +6,8 @@ Results-driven software developer, systems analyst, and system administrator wit
 
 ## TECHNICAL SKILLS
 
+- **System Administration & Automation:** Red Hat Enterprise Linux (RHEL), OpenShift, Kuberneties, Ansible, Docker, Bash, SSH, VIM
 - **Languages & Frameworks:** JavaScript, HTML, CSS, Bootstrap, Python, Go, React, SvelteKit, Astro
-- **System Administration & Automation:** Red Hat Enterprise Linux (RHEL), OpenShift, Ansible, Bash, SSH, VIM
 - **Database Systems:** MySQL, MongoDB, Firebase, PocketBase
 - **Development Tools:** Git, Photoshop, GIMP, Figma, Adobe XD
 - **Security & Compliance:** TS/SCI Clearance, CompTIA Security+, OSHA 10 Hour Maritime Industry Course
